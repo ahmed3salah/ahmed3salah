@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm Ahmed, a backend-focused software engineer with experience designing and developing enterprise-grade applications.<br>I work primarily with Laravel and modern web technologies to build scalable business systems, including ERP platforms, inventory and warehouse management systems, POS solutions, payment integrations, and multi-tenant SaaS products.<br>I enjoy system design, database architecture, API development, automation, and performance optimization. My goal is to build software that remains maintainable, reliable, and scalable as businesses grow.
 
 
